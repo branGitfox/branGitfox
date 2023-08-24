@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @branGitfox
-- 👀 I’m interested in php
-- 🌱 I’m currently learning php poo
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Brandon Fidelin
+- 👀 I’m interested by Web Development
+- 🌱 I’m currently learning php poo, javascript
+- 💞️ I’m looking to collaborate on new box of informatics
 - 📫 How to reach me better
 
 <!---
