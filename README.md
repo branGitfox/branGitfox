@@ -48,7 +48,6 @@
 </table>
 
 </p>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=branGitFox&theme=transparent&show_icons=true&locale=en&layout=compact" alt="tglrazaf" /></p>
 
 </p>
