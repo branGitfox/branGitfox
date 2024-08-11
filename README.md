@@ -1,6 +1,6 @@
 
-<p>Hi there, I'm a `CS student`. I like `food` and ˋprogramming`🚀</p>
-<p>
+Hi there, I'm a `CS student`. I like `food` and ˋprogramming`🚀
+
 <table>
 	<tr height="54">
 		<td>
