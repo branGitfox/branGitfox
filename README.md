@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da,7100:008080&fontColor=red&height=160&section=header&text=Tongasoa&fontSize=20" />
-<p align="left"> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40C463&center=true&random=false&width=760&lines=Software+Engineer+Student+and+FullStack+Developer;" alt="Typing SVG" />
-    </a>
-</p>
+
 <p> 
     <strong> 🇲🇬 Hello World 👋 🇲🇬 </strong> 
 </p>
