@@ -1,6 +1,6 @@
 
 Hi there 👋, I'm a `CS student`. I like `food` and `programming` 🚀.
-
+## `Stacks and Tools`
 <table>
 	<tr height="54">
 		<td>
