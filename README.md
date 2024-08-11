@@ -54,7 +54,7 @@
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AvotraR/AvotraR/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvotraR/BranGitFox/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BranGitFox/BranGitFox/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.svg" width="100%"/>
 
 
