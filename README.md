@@ -1,5 +1,5 @@
 
-Hi there, I'm a `CS student`. I like `food` and ˋprogramming`🚀
+Hi there 👋, I'm a `CS student`. I like `food` and ˋprogrammingˋ 🚀
 
 <table>
 	<tr height="54">
