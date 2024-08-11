@@ -34,7 +34,7 @@
     <tr height="54">
 		<td>
 		    <a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows 10-%20windows?logo=windows&logoColor=%23fff&color=%230078D4"></a>
-			<a href="#"><img alt="android" src="https://img.shields.io/badge/Android-%20android?logo=android&logoColor=%23fff&color=%233DDC84"></a>
+			</a>
 			<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 	   </td>
 	</tr>
