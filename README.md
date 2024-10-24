@@ -7,7 +7,7 @@ Hi there 👋, I'm a `CS student`. I like `food` and `programming` 🚀.
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/BranGitfox/BranGitfox/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BranGitFox/BranGitFox/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BranGitfox/BranGitfox/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BranGitFox/BranGitFox/output/github-contribution-grid-snake.svg" width="100%"/>
 
 
 
