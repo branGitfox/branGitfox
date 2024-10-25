@@ -14,7 +14,7 @@ Hi there 👋, I'm a `CS student`. I like `food` and `programming` 🚀.
 ![PHP](https://img.shields.io/badge/PHP-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=violet)
 ![Mysql](https://img.shields.io/badge/Mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=pink)
 
-![React Native](https://img.shields.io/badge/ReactNative-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue)
+![React Native](https://img.shields.io/badge/React-Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BranGitfox&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
 
 
