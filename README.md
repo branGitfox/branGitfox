@@ -19,7 +19,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Mobile 📱
-![ReactNative](https://img.shields.io/badge/ReactNative-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue)
+![ReactNative](https://img.shields.io/badge/React-Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue)
 
 ## My contributions stats 💻
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BranGitfox&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
