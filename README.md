@@ -21,6 +21,16 @@
 # Mobile 📱
 ![ReactNative](https://img.shields.io/badge/React-Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue)
 
+# Tools 🛠️
+![Insomnia](https://img.shields.io/badge/Insomnia-%2347A248.svg?style=for-the-badge&logo=insomnia&logoColor=purple)
+![Git](https://img.shields.io/badge/Git-%2347A248.svg?style=for-the-badge&logo=Git&logoColor=orange)
+![Lunacy](https://img.shields.io/badge/Lunacy-%2347A248.svg?style=for-the-badge&logo=Lunacy&logoColor=blue)
+![vsCode](https://img.shields.io/badge/vsCode-%2347A248.svg?style=for-the-badge&logo=VsCode&logoColor=blue)
+
+# Environment ♻️
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%2347A248.svg?style=for-the-badge&logo=Ubuntu&logoColor=orange)
+
+
 ## My contributions stats 💻
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BranGitfox&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
 
