@@ -1,7 +1,7 @@
 
-# Hi there 👋, my name is `Ravomanana Brandon Fidelin`. I like `food` and `programming` 🚀.
+## Hi there 👋, my name is `Ravomanana Brandon Fidelin`. I like `food` and `programming` 🚀.
 
-# Front End stacks 🖼️
+## Front End stacks 🖼️
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -9,16 +9,16 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2338B2AC.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
 
-# Back End stacks ⚙️
+## Back End stacks ⚙️
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=violet)
 
-# Database 💽
+## Database 💽
 ![Mysql](https://img.shields.io/badge/Mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=violet)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# Mobile 📱
+## Mobile 📱
 ![ReactNative](https://img.shields.io/badge/React-Native-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
 
 ## My contributions stats 💻
