@@ -22,8 +22,8 @@
 ![ReactNative](https://img.shields.io/badge/React-Native-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
 
 # Tools 🛠️
-![Insomnia](https://img.shields.io/badge/Insomnia-%660099.svg?style=for-the-badge&logo=insomnia&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%transparent.svg?style=for-the-badge&logo=Git&logoColor=orange)
+![Insomnia](https://img.shields.io/badge/Insomnia-%764ABC.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%#ED7F10.svg?style=for-the-badge&logo=Git&logoColor=orange)
 ![Lunacy](https://img.shields.io/badge/Lunacy-%23007ACC.svg?style=for-the-badge&logo=Lunacy&logoColor=white)
 ![vsCode](https://img.shields.io/badge/vsCode-%23007ACC.svg?style=for-the-badge&logo=VsCode&logoColor=white)
 
