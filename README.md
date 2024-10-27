@@ -19,16 +19,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Mobile 📱
-![ReactNative](https://img.shields.io/badge/React-Native-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=blue)
+![ReactNative](https://img.shields.io/badge/React-Native-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
 
 # Tools 🛠️
-![Insomnia](https://img.shields.io/badge/Insomnia-%transparent.svg?style=for-the-badge&logo=insomnia&logoColor=purple)
+![Insomnia](https://img.shields.io/badge/Insomnia-%660099.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%transparent.svg?style=for-the-badge&logo=Git&logoColor=orange)
-![Lunacy](https://img.shields.io/badge/Lunacy-%transparent.svg?style=for-the-badge&logo=Lunacy&logoColor=blue)
-![vsCode](https://img.shields.io/badge/vsCode-%transparent.svg?style=for-the-badge&logo=VsCode&logoColor=blue)
+![Lunacy](https://img.shields.io/badge/Lunacy-%23007ACC.svg?style=for-the-badge&logo=Lunacy&logoColor=white)
+![vsCode](https://img.shields.io/badge/vsCode-%23007ACC.svg?style=for-the-badge&logo=VsCode&logoColor=white)
 
 # Environment ♻️
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%transparent.svg?style=for-the-badge&logo=Ubuntu&logoColor=orange)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%transparent.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 
 ## My contributions stats 💻
