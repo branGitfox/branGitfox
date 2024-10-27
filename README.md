@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm a `CS student`. I like `food` and `programming` 🚀.
+# Hi there 👋, my name is `Ravomanana Brandon Fidelin`. I like `food` and `programming` 🚀.
 
 # Front End stacks 🖼️
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
