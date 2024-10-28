@@ -3,22 +3,21 @@
 
 ## 🛠️ Technologies & Tools
 
-### 💥 Languages
+### 🎨 Front-End Development
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-
-### 🎨 Front-End Development
-
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![TailwindCss](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind)
 
 ### 🧑🏽‍💻 Back-End Development
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
 ### 📱 Mobile Development
 
@@ -29,10 +28,8 @@
 ### 💾 Databases
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Realm](https://img.shields.io/badge/-Realm-333333?style=flat&logo=realm&logoColor=cc33ff)
+
 
 ### 🧰 Other Tools
 
