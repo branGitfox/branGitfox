@@ -35,8 +35,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Gitlab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052cc)
+![Insomnia](https://img.shields.io/badge/-insomia-333333?style=flat&logo=insomnia)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## 📈 GitHub Stats
