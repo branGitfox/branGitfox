@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is `Ravomanana Brandon Fidelin`. I like `food`, ˋweb development` and ˋmobile development` 🚀.
+### Hi there 👋, my name is `Ravomanana Brandon Fidelin`. I´m interested by `web development` and `mobile development` 🚀.
 
 ## 🛠️ Technologies & Tools
 
