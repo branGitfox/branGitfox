@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">![BranGitfox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BranGitfox&show_icons=true&theme=blue-dark)</p>
+![BranGitfox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BranGitfox&show_icons=true&theme=blue-dark)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BranGitfox&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
 
 
