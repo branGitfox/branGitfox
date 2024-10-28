@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
 
 ### 🧑🏽‍💻 Back-End Development
 
