@@ -40,17 +40,7 @@
 
 ## 📈 GitHub Stats
 
-![Wasique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasiquehaider&show_icons=true&theme=vue-dark)
-![Wasique's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wasiquehaider&layout=compact&exclude_lang=java+r&theme=vue-dark)
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/wasiquehaider/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TheWasiqHaider)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wasiquehaider02@gmail.com)
-
-
-## My contributions stats 💻
+![BranGitfox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BranGitfox&show_icons=true&theme=blue-dark)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BranGitfox&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
 
 
