@@ -36,7 +36,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Insomnia](https://img.shields.io/badge/-insomia-333333?style=flat&logo=insomnia)
-![Visual Studio Code](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=vscode&logoColor=007ACC)
+![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=vscode&logoColor=007ACC)
 
 ## 📈 GitHub Stats
 
