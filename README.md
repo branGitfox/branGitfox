@@ -19,12 +19,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-
-### 📱 Mobile Development
-
-![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple&logoColor=C0C0C0)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 
 ### 💾 Databases
 
