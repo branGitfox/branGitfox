@@ -30,8 +30,9 @@
 ### 🧰 Other Tools
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Insomnia](https://img.shields.io/badge/-insomia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-postman-333333?style=flat&logo=postman)
 ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=vscode&logoColor=007ACC)
 
 ## 📈 GitHub Stats
