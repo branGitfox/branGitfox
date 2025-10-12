@@ -38,7 +38,7 @@
 
   <a href="#"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel"/></a>
   <a href="#"><img src="https://www.netlify.com/v3/img/components/logomark.png" width="40" height="40" alt="Netlify"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render.svg" width="40" height="40" alt="Render"/></a>
+]
 </p>
 
 
