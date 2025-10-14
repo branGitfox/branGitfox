@@ -1,6 +1,8 @@
 # Hi, I'm Brandon, Welcome to my world !
 <img src="./stack-js.gif"/>
-## Stacks
+
+# Stacks
+
 <p align="left">
   <!-- Langages -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/></a>
