@@ -1,6 +1,4 @@
 # Hi, I'm Brandon, Welcome to my world !
-<img src="./stack-js.gif"/>
-
 # Stacks
 
 <p align="left">
