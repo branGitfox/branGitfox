@@ -7,9 +7,9 @@ Hi there! 🤓, I'm [Brandon](https://www.linkedin.com/in/brandon-fidelin-ravoma
 <p>My main stack is Laravel, Go, Mysql/Postgresql/Supabase, PEST, Docker, React, Next, Livewire And Inertia</p>
 <p>I like:</p>
 <ul>
-  <li>Code</li>
-  <li>play games</li>
-  <li>Do sports</li>
+  <li>Coding</li>
+  <li>playing games</li>
+  <li>Doing sports</li>
   <li>Building project</li>
 </ul>
 
