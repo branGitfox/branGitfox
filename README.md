@@ -4,7 +4,7 @@ Hi there! 🤓, I'm [Brandon](https://www.linkedin.com/in/brandon-fidelin-ravoma
 <p>I'm a Backend Developer, but i can do frontend as well</p>
 <br/>
 
-<p>My main stack is Laravel, Go, Mysql/Postgresql/Supabase, PEST, Docker, React, Redux, Next, Livewire And Inertia</p>
+<p>My main stack is Laravel, Go, Mysql/Postgresql/Supabase, PEST, Docker, React, Redux, Next, TailwindCSS Livewire And Inertia</p>
 <p>I like:</p>
 <ul>
   <li>Coding</li>
