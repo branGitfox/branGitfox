@@ -1,7 +1,7 @@
-Hi there! 🤓, I'm [Brandon](https://www.linkedin.com/in/brandon-fidelin-ravomanana-59157b281/)
+Hi there! 🤓, I'm [Brandon](https://linkedin.com/in/brandon-fidelin-ravomanana-2353353a7)
 
 
-<p>I'm a Full Stack Developer - Backend Specialist - AI/Ml Enthusiast</p>
+<p>I'm a Full Stack Developer - Backend Specialist - AI/ML Enthusiast</p>
 <br/>
 
 <p>My main stack is Python, FastApi, Mysql/Postgresql/Supabase, Laravel, React, TailwindCSS, Docker,</p>
