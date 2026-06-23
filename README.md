@@ -10,9 +10,8 @@ I'm Brandon `Software Engineer student`, specializing in `Backend` and `AI/ML`.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=BranGitfox&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=BranGitfox&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BranGitfox&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://komarev.com/ghpvc/?username=branGitfox)](https://visitcount.itsvg.in)
+
 
 
 
