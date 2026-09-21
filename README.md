@@ -17,8 +17,6 @@ I'm Brandon `Software Engineer student`, specializing in `Backend` and `AI/ML`.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="NumPy" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go" />
